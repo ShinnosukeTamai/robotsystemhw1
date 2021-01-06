@@ -1,5 +1,5 @@
 # robotsystemhw1
 devicedriver1
-上田隆一教授のmyled.cをそのまま使用しました。
+上田隆一教授のmyled.cとMakefileをそのまま使用しました。
 通常のLチカとsleepを用いた呼び出し行いました。
 sleepは応用が利くので単純なプログラムでも色々なことができそうです。
