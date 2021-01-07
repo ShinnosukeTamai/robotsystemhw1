@@ -16,3 +16,4 @@ echo 0 > /dev/myled0で消灯
 echo 1 > /dev/myled0で点灯
 デモ動画では、echo 1 > /dev/myled0; sleep 3;echo 0 > /dev/myled0を実行し、3秒間点灯させた。
 - ライセンス
+GPL3.0LICENSE
